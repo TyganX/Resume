@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Resume</title>
+    </head>
+    <body>
+        <iframe
+            src="PUT YOUR SOURCE URL HERE"
+            width="100%"
+            height="1080"
+            allow="autoplay"
+        ></iframe>
+    </body>
+</html>
